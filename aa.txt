@@ -1,2 +1,12 @@
 ggggggggggggggggggg
 
+<<<<<<< HEAD
+=======
+asfafdadd
+
+asfafdfa
+safsd
+
+safafdafd
+>>>>>>> origin/master
+asfdafdfd
